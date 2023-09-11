@@ -63,4 +63,7 @@
     <Build Include="StoredProcedures\spCustomer_Upsert.sql" />
     <Build Include="StoredProcedures\spPurchase_Insert.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="PointOFSaleDb.publish.xml" />
+  </ItemGroup>
 </Project>

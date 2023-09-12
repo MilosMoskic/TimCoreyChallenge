@@ -7,4 +7,3 @@ begin
 	insert into Purchase(Item, Cost, CustomerId)
 	values(@Item, @Cost, @CustomerId);
 end
-RETURN 0

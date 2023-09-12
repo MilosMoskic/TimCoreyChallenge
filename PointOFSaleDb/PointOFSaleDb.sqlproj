@@ -59,9 +59,9 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\Customer.sql" />
-    <Build Include="Tables\Purchase_1.sql" />
     <Build Include="StoredProcedures\spCustomer_Upsert.sql" />
     <Build Include="StoredProcedures\spPurchase_Insert.sql" />
+    <Build Include="Tables\Purchase_1.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="PointOFSaleDb.publish.xml" />
